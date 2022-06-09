@@ -7,6 +7,6 @@
 6. Basic Assignment
 
 Prerequisites : 
-<a href="https://redirector.gvt1.com/edgedl/android/studio/install/2021.2.1.15/android-studio-2021.2.1.15-windows.exe"> <h3>Android Studio</h3><a/>
-<a href="https://code.visualstudio.com/download"> <h3>Visual Studio Code (VS Code)</h3><a/>
-<a href="https://docs.flutter.dev/get-started/install"> <h3>Download Flutter</h3><a/>
+<h3><a href="https://redirector.gvt1.com/edgedl/android/studio/install/2021.2.1.15/android-studio-2021.2.1.15-windows.exe">Android Studio</a></h3>
+<h3><a href="https://code.visualstudio.com/download"> Visual Studio Code (VS Code)<a/></h3>
+<h3><a href="https://docs.flutter.dev/get-started/install"> Download Flutter<a/></h3>
